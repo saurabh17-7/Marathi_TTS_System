@@ -1,0 +1,10 @@
+customtkinter
+gTTS
+pygame
+soundfile
+numpy
+scipy
+pillow
+pytesseract
+pdfplumber
+opencv-python
